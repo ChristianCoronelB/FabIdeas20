@@ -1,0 +1,5 @@
+{
+  "name": "Fábrica de Ideas – Gestión de Eventos",
+  "description": "Plataforma integral para la gestión de eventos, salas, actividades y asistencia mediante QR con geolocalización.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
